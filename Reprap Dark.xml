@@ -1,0 +1,33 @@
+<ColorTheme author="Rickard Johansson" description="Black background with blend colors." modified="15/05/2020 3:43:58 PM">
+  <Default color="536870911" backgroundcolor="0" bold="false" italic="false" underline="false"/>
+  <Selection color="13434879" backgroundcolor="204"/>
+  <HTMLTagHighlight color1="153" color2="1973790"/>
+  <XMLTagHighlight color1="153" color2="2302755"/>
+  <ControlCharacters color="16730955" backgroundcolor="536870911"/>
+  <LineHighlight color="536870911" backgroundcolor="3355443"/>
+  <BraceHighlight color="16777215" backgroundcolor="3368448" bold="true" italic="false" underline="false"/>
+  <FoldHighlighting color="16777215" backgroundcolor="12632256"/>
+  <FoldMark color="13158" backgroundcolor="3460607" bold="false" italic="false" underline="false"/>
+  <SyncEdit color="10092492" backgroundcolor="3355392"/>
+  <Character color="1884119" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <String color="5240818" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <Symbol color="13553358" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <SymbolA color="0" backgroundcolor="16777215" bold="false" italic="false" underline="false"/>
+  <SymbolB color="0" backgroundcolor="16777215" bold="false" italic="false" underline="false"/>
+  <SymbolC color="0" backgroundcolor="16777215" bold="false" italic="false" underline="false"/>
+  <Comment color="8421504" backgroundcolor="536870911" bold="false" italic="true" underline="false"/>
+  <LineComment color="8421504" backgroundcolor="536870911" bold="false" italic="true" underline="false"/>
+  <Number color="6065144" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <Hexadecimal color="6321648" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <Text color="14540253" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <URL color="13407144" backgroundcolor="536870911" bold="false" italic="false" underline="true"/>
+  <Attribute color="4611701" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <AttributeValue color="9092292" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <ASPTag color="16777215" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <PHPTag color="16777215" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <LeftMarginColor text="11391929" background="0" gradient="false" bookmark="4227072" changed="11530223" changed-saved="8578762"/>
+  <LeftMarginLine style="1" color="5789784" icon="4"/>
+  <RightMarginLine style="1" color="5789784"/>
+  <DocMapBackground backgroundcolor="536870911"/>
+  <DocMapPageArea color="0" backgroundcolor="8421504"/>
+</ColorTheme>
