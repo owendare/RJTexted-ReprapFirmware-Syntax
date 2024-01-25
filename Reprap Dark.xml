@@ -1,33 +1,44 @@
-<ColorTheme author="Rickard Johansson" description="Black background with blend colors." modified="15/05/2020 3:43:58 PM">
+<ColorTheme author="Owen Dare" description="Black background with blend colors." modified="26/01/2024 7:51:06 AM">
   <Default color="536870911" backgroundcolor="0" bold="false" italic="false" underline="false"/>
-  <Selection color="13434879" backgroundcolor="204"/>
+  <Selection color="13434879" backgroundcolor="204" backgroundcolort="-16777203" colortransparent="true" windowedge="true" ctrlchars="true"/>
+  <Search color="-16777202" backgroundcolor="15774880" colorenabled="true"/>
   <HTMLTagHighlight color1="153" color2="1973790"/>
   <XMLTagHighlight color1="153" color2="2302755"/>
-  <ControlCharacters color="16730955" backgroundcolor="536870911"/>
+  <ControlCharacters color="65280" backgroundcolor="536870911"/>
   <LineHighlight color="536870911" backgroundcolor="3355443"/>
-  <BraceHighlight color="16777215" backgroundcolor="3368448" bold="true" italic="false" underline="false"/>
+  <BraceHighlight color="16777215" backgroundcolor="10053120" boldtext="false" underlined="true" framed="false" bracehighlighttype="1" errorcolor="0" errorbackgroundcolor="255"/>
   <FoldHighlighting color="16777215" backgroundcolor="12632256"/>
-  <FoldMark color="13158" backgroundcolor="3460607" bold="false" italic="false" underline="false"/>
+  <FoldMark color="13158" backgroundcolor="3460607" bold="false" boldness="400" italic="false" underline="false"/>
   <SyncEdit color="10092492" backgroundcolor="3355392"/>
-  <Character color="1884119" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <String color="5240818" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <Symbol color="13553358" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <SymbolA color="0" backgroundcolor="16777215" bold="false" italic="false" underline="false"/>
-  <SymbolB color="0" backgroundcolor="16777215" bold="false" italic="false" underline="false"/>
-  <SymbolC color="0" backgroundcolor="16777215" bold="false" italic="false" underline="false"/>
-  <Comment color="8421504" backgroundcolor="536870911" bold="false" italic="true" underline="false"/>
-  <LineComment color="8421504" backgroundcolor="536870911" bold="false" italic="true" underline="false"/>
-  <Number color="6065144" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <Hexadecimal color="6321648" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <Text color="14540253" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <URL color="13407144" backgroundcolor="536870911" bold="false" italic="false" underline="true"/>
-  <Attribute color="4611701" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <AttributeValue color="9092292" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <ASPTag color="16777215" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
-  <PHPTag color="16777215" backgroundcolor="536870911" bold="false" italic="false" underline="false"/>
+  <Character color="1884119" backgroundcolor="536870911" bold="false" boldness="400" italic="false" underline="false"/>
+  <String color="5240818" backgroundcolor="536870911" bold="false" boldness="400" italic="false" underline="false"/>
+  <Symbol color="13553358" backgroundcolor="536870911" bold="true" boldness="600" italic="false" underline="false" colorbraces="true"/>
+  <SymbolA color="0" backgroundcolor="16777215" bold="false" boldness="400" italic="false" underline="false"/>
+  <SymbolB color="0" backgroundcolor="16777215" bold="false" boldness="400" italic="false" underline="false"/>
+  <SymbolC color="0" backgroundcolor="16777215" bold="false" boldness="400" italic="false" underline="false"/>
+  <Comment color="16764108" backgroundcolor="536870911" bold="false" boldness="400" italic="true" underline="false"/>
+  <LineComment color="16764108" backgroundcolor="536870911" bold="false" boldness="400" italic="true" underline="false"/>
+  <Number color="6130936" backgroundcolor="536870911" bold="false" boldness="600" italic="false" underline="false"/>
+  <Hexadecimal color="6321648" backgroundcolor="536870911" bold="false" boldness="400" italic="false" underline="false"/>
+  <Text color="16777215" backgroundcolor="536870911" bold="false" boldness="700" italic="false" underline="false"/>
+  <URL color="16724736" backgroundcolor="536870911" bold="false" boldness="400" italic="false" underline="true"/>
+  <Attribute color="4611701" backgroundcolor="536870911" bold="false" boldness="400" italic="false" underline="false"/>
+  <AttributeValue color="9092292" backgroundcolor="536870911" bold="false" boldness="400" italic="false" underline="false"/>
+  <ASPTag color="16777215" backgroundcolor="536870911" bold="false" boldness="400" italic="false" underline="false"/>
+  <PHPTag color="16777215" backgroundcolor="536870911" bold="false" boldness="400" italic="false" underline="false"/>
   <LeftMarginColor text="11391929" background="0" gradient="false" bookmark="4227072" changed="11530223" changed-saved="8578762"/>
   <LeftMarginLine style="1" color="5789784" icon="4"/>
   <RightMarginLine style="1" color="5789784"/>
-  <DocMapBackground backgroundcolor="536870911"/>
-  <DocMapPageArea color="0" backgroundcolor="8421504"/>
+  <Bookmarks color="536870911" backgroundcolor="4227072"/>
+  <CursorLine color="12632256" type="1"/>
+  <HexViewGutter color="8235654" backgroundcolor="0"/>
+  <HexGutterCurrentLine color="8235654" backgroundcolor="8295554"/>
+  <HexViewHexadecimals color="14540253"/>
+  <HexViewANSI color="5240818"/>
+  <DiagnosticErrors color="536870911" backgroundcolor="7885020"/>
+  <DiagnosticWarnings color="536870911" backgroundcolor="5289210"/>
+  <DiagnosticInformation color="536870911" backgroundcolor="16414800"/>
+  <DiagnosticHints color="536870911" backgroundcolor="7928400"/>
+  <DocMapBackground backgroundcolor="0"/>
+  <DocMapPageArea color="0" backgroundcolor="13421772"/>
 </ColorTheme>
